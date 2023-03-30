@@ -1,0 +1,6 @@
+create env.file with following content
+
+VITE_CLIENT_ID = a6989ce84eb149cf9e49b9756e727c2c //your access token
+VITE_API_BASE_URL = https://api.spotify.com/v1
+VITE_REDIRECT_URI= http://localhost:4173/login/login.html
+VITE_APP_URL = http://localhost:4173
